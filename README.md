@@ -18,6 +18,7 @@ Instead of relying on heavy textbook jargon, I focus on writing **working source
 
 ###  Phase 1: Environment & Basics
 * [x] **Hello World & Entry Point** (`Hello.java` | `HelloWorld_Explanation.md`)
+* [x] **JdkJreJvm**
 * [ ] **Syntax & Formatting** (`PrintDetails.java` | `println` vs `print`)
 * [ ] **Output Formatting** (`EscapeCharacters.java` | `\n`, `\t`, quotes)
 * [ ] **Code Documentation** (`CommentsDemo.java` | Single, Multi-line, JavaDoc)
