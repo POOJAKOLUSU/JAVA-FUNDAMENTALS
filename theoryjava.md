@@ -71,7 +71,4 @@ Checks for the mandatory main method signature.
 Translates intermediate bytecode into native machine code (0s and 1s) specific to the host operating system.
 
 Key Concept: While the JVM itself is platform-dependent (built specifically for Windows, macOS, or Linux), it makes compiled Java bytecode platform-independent.
-
 Translates intermediate bytecode into native machine code (0s and 1s) specific to the host operating system.
-
-Key Concept: While the JVM itself is platform-dependent (built specifically for Windows, macOS, or Linux), it makes compiled Java bytecode plat
