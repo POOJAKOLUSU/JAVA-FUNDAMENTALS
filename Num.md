@@ -28,9 +28,10 @@ public class Num {
 ### 3. Step-by-Step Execution Breakdown
 
 #### Console Output:
+```
 814
 13
-
+```
 #### Detailed Execution Flow:
 
 1. **`System.out.print(3 + 5)`**:
