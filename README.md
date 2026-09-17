@@ -20,8 +20,8 @@ Instead of relying on heavy textbook jargon, I focus on writing **working source
 * [x] **Hello World & Entry Point** (`Hello.java` | `HelloWorld_Explanation.md`)
 * [x] **JdkJreJvm**
 * [x] **Syntax & Formatting** (`PrintDetails.java` | `println` vs `print`)
-* [ ] **Output Formatting** (`EscapeCharacters.java` | `\n`, `\t`, quotes)
-* [ ] **Code Documentation** (`CommentsDemo.java` | Single, Multi-line, JavaDoc)
+* [x] **Output Formatting** (`EscapeCharacters.java` | `\n`, `\t`, quotes)
+* [x] **Code Documentation** (`CommentsDemo.java` | Single, Multi-line, JavaDoc)
 
 ###  Phase 2: User Input, Variables & Operators
 * [ ] **User Input** (`UserInputScanner.java` | `Scanner` class mechanics)
