@@ -33,8 +33,8 @@ public class SingleLineDemo {
 
         System.out.println(a); // Prints 11
         System.out.println(b); // Prints 11
-    }
-}
+    }}
+
 
 
 [3] DEMO CODE & OUTPUT (SPOTTING THE DIFFERENCE)
@@ -58,8 +58,7 @@ public class IncrementDemo {
         // Increments val from 6 to 7 FIRST, THEN outputs current value (7)
         System.out.println("Pre-increment output:  " + (++val)); 
         System.out.println("Value after pre-inc:   " + val);     
-    }
-}
+    }}
 
 --- Console Output ---
 Post-increment output: 5
