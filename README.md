@@ -24,10 +24,10 @@ Instead of relying on heavy textbook jargon, I focus on writing **working source
 * [x] **Code Documentation** (`CommentsDemo.java` | Single, Multi-line, JavaDoc)
 
 ###  Phase 2: User Input, Variables & Operators
-* [ ] **User Input** (`UserInputScanner.java` | `Scanner` class mechanics)
-* [ ] **Data Types** (`DataTypesDemo.java` | Primitives & `String`)
-* [ ] **Type Conversion** (`TypeCasting.java` | Widening vs. Narrowing)
-* [ ] **Basic Arithmetic** (`BasicMath.java` | Operators & modulus `%`)
+* [x] **User Input** (`UserInputScanner.java` | `Scanner` class mechanics)
+* [x] **Data Types** (`DataTypesDemo.java` | Primitives & `String`)
+* [x] **Type Conversion** (`TypeCasting.java` | Widening vs. Narrowing)
+* [x] **Basic Arithmetic** (`BasicMath.java` | Operators & modulus `%`)
 * [ ] **Variable Swapping** (`SwapVariables.java` | Temp variable vs. Bitwise XOR `^`)
 
 ###  Phase 3: Control Logic & Program Flow
