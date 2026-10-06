@@ -28,7 +28,7 @@ Instead of relying on heavy textbook jargon, I focus on writing **working source
 * [x] **Data Types** (`DataTypesDemo.java` | Primitives & `String`)
 * [x] **Type Conversion** (`TypeCasting.java` | Widening vs. Narrowing)
 * [x] **Basic Arithmetic** (`BasicMath.java` | Operators & modulus `%`)
-* [ ] **Variable Swapping** (`SwapVariables.java` | Temp variable vs. Bitwise XOR `^`)
+* [x] **Variable Swapping** (`SwapVariables.java` | Temp variable vs. Bitwise XOR `^`)
 
 ###  Phase 3: Control Logic & Program Flow
 * [ ] **Decision Making** (`EvenOdd.java` | `if`, `else-if`, `else`)
