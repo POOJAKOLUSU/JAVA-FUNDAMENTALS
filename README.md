@@ -31,7 +31,10 @@ Instead of relying on heavy textbook jargon, I focus on writing **working source
 * [x] **Variable Swapping** (`SwapVariables.java` | Temp variable vs. Bitwise XOR `^`)
 
 ###  Phase 3: Control Logic & Program Flow
-* [ ] **Decision Making** (`EvenOdd.java` | `if`, `else-if`, `else`)
+* [X] **Decision Making** (`EvenOdd.java`)
+* [ ]  **if`, `else-if`, `else**
+* [X]  **LEAP YEAR OR NOT**
+* [X] **VOWELS OR CONSONANTS**
 * [ ] **Switch Statements** (`SimpleCalculator.java` | Multi-way branching)
 * [ ] **Loops & Iteration** (`PrintNumbers.java` | `for`, `while`, `do-while`)
 * [ ] **Number Logic** (`NumberLogic.java` | Primes, reversing digits, factorials)
