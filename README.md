@@ -32,9 +32,10 @@ Instead of relying on heavy textbook jargon, I focus on writing **working source
 
 ###  Phase 3: Control Logic & Program Flow
 * [X] **Decision Making** (`EvenOdd.java`)
-* [ ]  **if`, `else-if`, `else**
+* [x]  **if`, `else-if`, `else**
 * [X]  **LEAP YEAR OR NOT**
 * [X] **VOWELS OR CONSONANTS**
+* [x] **Largest number out of 3
 * [ ] **Switch Statements** (`SimpleCalculator.java` | Multi-way branching)
 * [ ] **Loops & Iteration** (`PrintNumbers.java` | `for`, `while`, `do-while`)
 * [ ] **Number Logic** (`NumberLogic.java` | Primes, reversing digits, factorials)
