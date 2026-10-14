@@ -36,9 +36,9 @@ Instead of relying on heavy textbook jargon, I focus on writing **working source
 * [X]  **LEAP YEAR OR NOT**
 * [X] **VOWELS OR CONSONANTS**
 * [x] **Largest number out of 3**
-* [ ] **Switch Statements** (`SimpleCalculator.java` | Multi-way branching)
-* [ ] **Loops & Iteration** (`PrintNumbers.java` | `for`, `while`, `do-while`)
-* [ ] **Number Logic** (`NumberLogic.java` | Primes, reversing digits, factorials)
+* [x] **Switch Statements** (`SimpleCalculator.java` | Multi-way branching)
+* [x] **Loops & Iteration** (`PrintNumbers.java` | `for`, `while`, `do-while`)
+* [x] **Number Logic** (`NumberLogic.java` | Primes, reversing digits, factorials)
 
 ###  Phase 4: Arrays & String Operations
 * [ ] **1D Arrays** (`ArrayBasics.java` | Indexing and `for-each` loops)
